@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1634221347 source:e:\ln\lndev\projectc\monprogramme\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1634085793 source:e:\ln\lndev\projectc\monprogramme\learn1.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1634117356 source:e:\ln\lndev\projectc\monprogramme\jeu1.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1634122013 source:e:\ln\lndev\projectc\monprogramme\base.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1634122003 source:e:\ln\lndev\projectc\monprogramme\les_fonctions.c
+	<stdio.h>
+	<stdlib.h>
+
+1634121984 source:e:\ln\lndev\projectc\monprogramme\plus_ou_moins.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1634215801 source:e:\ln\lndev\projectc\monprogramme\prototypes.c
+	<stdio.h>
+	<stdlib.h>
+
